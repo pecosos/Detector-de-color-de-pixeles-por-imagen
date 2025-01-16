@@ -1,0 +1,1 @@
+# Detector-de-color-de-pixeles-por-imagen
